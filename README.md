@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/f3330d95cb132871349cba2edfd6cbd0939fbcb880053d1a438d4700e2e4e6fb/68747470733a2f2f7777772e6469676974616c61646c656374696f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)]
 <h1 align="center">Hi 👋, I'm Amaan Khan</h1>
-<img align="right" alt="Codingimage" width="400" src="https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media">
+
 <h3 align="center">A passionate Full Stack MERN developer from India</h3>
 
 - 🔭 I’m currently working on [ScreenStream](https://github.com/Amaankhan1229/ScreenStream)

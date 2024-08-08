@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **amaankhan61697@gmail.com**
 
-- 📄 Know about my experiences [Experienced in full-stack web development with React, Vue.js, Node.js, and MongoDB, and skilled in logical problem solving.]
+- 📄 Know about my experiences [Experienced in full-stack web development with React, Javascript, Node.js, and MongoDB, and skilled in logical problem solving.]
 - ⚡ Fun fact **I once built a Front-End application over a weekend just to test how quickly I could integrate a new technology!**
 
 <h3 align="left">Connect with me:</h3>

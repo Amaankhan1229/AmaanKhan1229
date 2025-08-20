@@ -1,5 +1,5 @@
 [![MasterHead]
-(https://medium.com/@adarsh-d/the-ultimate-guide-to-becoming-a-full-stack-developer-in-2023-c0358c8d8f60)
+https://www.google.com/search?sca_esv=a6dae9f26a3c2c64&rlz=1C1ONGR_enIN1069IN1069&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeoJTKjrFjVxydQWqI2NcOhZVmrJB8DQUK5IzxA2fZbQF4YL5sNSRJGgx0e9Z9AxEx1bmPbSY3ROQyoKhw9UuuwNOze1rMTfR8LJZdQ9FI96CmdBJWTydVJVILJpUCMhUJaivtxJ0ArVSPoESF5gtgDTwfAIvL61r650S64avOx1wd9u3Yw&q=full+stack+developer+photos&sa=X&ved=2ahUKEwjsqsGz-JiPAxU5UGwGHZbbMU8QtKgLegQIDxAB&biw=1280&bih=585&dpr=1.5#vhid=TNku3oaAMVbU0M&vssid=mosaic
 <h1 align="center">Hi 👋, I'm Amaan Khan</h1>
 
 <h3 align="center">A passionate Full Stack MERN developer from India</h3>

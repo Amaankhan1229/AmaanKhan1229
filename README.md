@@ -4,7 +4,8 @@
 
 <h3 align="center">A passionate Full Stack MERN developer from India</h3>
 
-- 🔭 I’m currently working on [ScreenStream](https://github.com/Amaankhan1229/ScreenStream)
+- 🔭 I’m currently working on [ScreenStream](https://github.com/Amaankhan1229/ScreenStream),
+- My Project is live here- https://screenstream-app.netlify.app
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
